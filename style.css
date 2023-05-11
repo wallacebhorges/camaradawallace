@@ -1,0 +1,22 @@
+/* ícones */
+.bi {
+    color: #6A40FF;
+  }
+  
+  /* links */
+  a {
+    color: #6A40FF;
+    text-decoration: none;
+    font-family: roboto, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  /* removendo sublinhado ao passar o mouse sobre o link */
+  a:hover {
+    text-decoration: none;
+  }
+    
+  /* importando fontes */
+  @import url("https://use.typekit.net/rsa6tuu.css");
+  
