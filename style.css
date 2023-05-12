@@ -27,6 +27,13 @@
   width: 1920px;
 }
 
+/* Menu de navegação */
+.navbar-toggler {
+  width: 50px;
+  position: absolute;
+  left: 80%;
+}
+
   /* importando fontes */
   @import url("https://use.typekit.net/rsa6tuu.css");
   
