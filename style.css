@@ -1,7 +1,41 @@
+  /* importando fontes */
+  @import url("https://use.typekit.net/rsa6tuu.css");
+
 *, body{
-  width: 100%;
   margin: 0;
   padding: 0;
+}
+
+h1 {
+  font-family:"filson-pro";
+  font-size: 2rem;
+  line-height: 2rem;
+  font-display:auto;
+  font-style:normal;
+  font-weight:500;
+  font-stretch:normal;
+}
+
+p {
+  font-family:"filson-pro";
+  font-size: 1.3rem;
+  line-height: 2.5rem;
+  font-display:auto;
+  font-style:normal;
+  font-stretch:normal;
+}
+.section-red {
+  background-color: #DC0449;
+  width: 100%;
+}
+
+.section-red p {
+  color: #ffffff;
+  font-weight:500;
+}
+ 
+#Sobre p {
+  text-align: justify;
 }
 
 /* ícones */
@@ -11,7 +45,7 @@
   
   /* links */
   a {
-    color: #6A40FF;
+    color: #6A40FF !important;
     text-decoration: none;
     font-family: roboto, sans-serif;
     font-weight: 500;
@@ -22,18 +56,6 @@
   a:hover {
     text-decoration: none;
   }
-    
-.img-topo {
-  width: 1920px;
-}
+  
 
-/* Menu de navegação */
-.navbar-toggler {
-  width: 50px;
-  position: absolute;
-  left: 80%;
-}
-
-  /* importando fontes */
-  @import url("https://use.typekit.net/rsa6tuu.css");
   
