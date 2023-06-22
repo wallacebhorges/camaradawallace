@@ -6,6 +6,10 @@
   padding: 0;
 }
 
+.col-md-6 p {
+  text-align: justify !important;
+}
+
 h1 {
   font-family:"filson-pro";
   font-size: 2rem;
@@ -14,6 +18,7 @@ h1 {
   font-style:normal;
   font-weight:500;
   font-stretch:normal;
+  text-align: center;
 }
 
 p {
@@ -56,6 +61,8 @@ p {
   a:hover {
     text-decoration: none;
   }
+  
+
   
 
   
